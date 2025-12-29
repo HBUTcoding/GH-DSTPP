@@ -1,6 +1,6 @@
-GH-DSTPP: Graph-enhanced Spatio-temporal Diffusion Point Processes
+GH-DSTPP
 
-This project presents GH-DSTPP, a graph-enhanced spatio-temporal diffusion point process model for modeling and generating spatio-temporal event sequences. The model integrates graph-based structures with diffusion processes to capture complex dependencies in spatio-temporal event data. Contributors to this project are from [Your Organization/Institution Name].
+This project presents GH-DSTPP, a GH-spatio-temporal diffusion point process model for modeling and generating spatio-temporal event sequences. The model integrates graph-based structures with diffusion processes to capture complex dependencies in spatio-temporal event data. Contributors to this project are from [Your Organization/Institution Name].
 The code is tested under a Linux desktop with PyTorch 1.7+ and Python 3.7+.
 
 Installation
