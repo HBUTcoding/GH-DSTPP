@@ -1,11 +1,11 @@
 import torch
 import torch.nn as nn
 import numpy as np
-from DSTPP import GaussianDiffusion_ST, Transformer, Transformer_ST, Model_all, ST_Diffusion
+from GHDSTPP import GaussianDiffusion_ST, Transformer, Transformer_ST, Model_all, ST_Diffusion
 from torch.optim import AdamW, Adam
 import argparse
 from scipy.stats import kstest
-from DSTPP.Dataset import get_dataloader
+from GHDSTPP.Dataset import get_dataloader
 import time
 import setproctitle
 from torch.utils.tensorboard import SummaryWriter
